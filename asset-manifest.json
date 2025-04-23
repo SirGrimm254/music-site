@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/music-site/static/css/main.27b66d2b.css",
-    "main.js": "/music-site/static/js/main.c6b1b54a.js",
+    "main.css": "/music-site/static/css/main.c70d51cc.css",
+    "main.js": "/music-site/static/js/main.cc61e174.js",
     "static/js/453.419a5d54.chunk.js": "/music-site/static/js/453.419a5d54.chunk.js",
     "static/media/fa-solid-900.ttf": "/music-site/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/music-site/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/music-site/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/music-site/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/music-site/index.html",
-    "main.27b66d2b.css.map": "/music-site/static/css/main.27b66d2b.css.map",
-    "main.c6b1b54a.js.map": "/music-site/static/js/main.c6b1b54a.js.map",
+    "main.c70d51cc.css.map": "/music-site/static/css/main.c70d51cc.css.map",
+    "main.cc61e174.js.map": "/music-site/static/js/main.cc61e174.js.map",
     "453.419a5d54.chunk.js.map": "/music-site/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27b66d2b.css",
-    "static/js/main.c6b1b54a.js"
+    "static/css/main.c70d51cc.css",
+    "static/js/main.cc61e174.js"
   ]
 }
