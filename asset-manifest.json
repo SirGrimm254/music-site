@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/music-site/static/css/main.1c501ccd.css",
+    "main.css": "/music-site/static/css/main.176173b8.css",
     "main.js": "/music-site/static/js/main.cc61e174.js",
     "static/js/453.419a5d54.chunk.js": "/music-site/static/js/453.419a5d54.chunk.js",
     "static/media/fa-solid-900.ttf": "/music-site/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/music-site/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/music-site/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/music-site/index.html",
-    "main.1c501ccd.css.map": "/music-site/static/css/main.1c501ccd.css.map",
+    "main.176173b8.css.map": "/music-site/static/css/main.176173b8.css.map",
     "main.cc61e174.js.map": "/music-site/static/js/main.cc61e174.js.map",
     "453.419a5d54.chunk.js.map": "/music-site/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c501ccd.css",
+    "static/css/main.176173b8.css",
     "static/js/main.cc61e174.js"
   ]
 }
